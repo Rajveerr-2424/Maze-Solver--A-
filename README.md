@@ -32,7 +32,7 @@ A Python-based Visual Maze Solver that automatically detects the maze entrance a
 Maze-Solver/
 │
 ├── maze.png
-├── maze_solver.py
+├── solver.py
 ├── solved_maze.png
 ├── requirements.txt
 └── README.md
